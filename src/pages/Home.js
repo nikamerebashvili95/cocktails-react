@@ -6,8 +6,8 @@ const Home = () => {
   return (
     <div>
       <main>
-        <CocktailList />
         <SearchForm />
+        <CocktailList />
       </main>
     </div>
   );
